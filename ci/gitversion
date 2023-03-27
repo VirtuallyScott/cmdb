@@ -1,0 +1,2 @@
+#!/bin/bash
+DOTNET_ROOT="${DOTNET_ROOT:-/usr/local/opt/dotnet@6/libexec}" exec "/usr/local/Cellar/gitversion/5.12.0/libexec/gitversion"  "$@"
